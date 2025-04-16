@@ -18,13 +18,13 @@
     "ffmpeg-kit",
     "ios"
   ],
-  "repository": "https://github.com/arthenica/ffmpeg-kit",
+  "repository": "https://github.com/nazarireza/ffmpeg-kit.git",
   "author": "ARTHENICA <open-source@arthenica.com> (https://www.arthenica.com)",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arthenica/ffmpeg-kit/issues"
+    "url": "https://github.com/nazarireza/ffmpeg-kit.git/issues"
   },
-  "homepage": "https://github.com/arthenica/ffmpeg-kit",
+  "homepage": "https://github.com/nazarireza/ffmpeg-kit.git",
   "publishConfig": {
     "registry": "http://localhost:4873/"
   },
