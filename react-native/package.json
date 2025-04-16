@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/arthenica/ffmpeg-kit",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://localhost:4873/"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.7.0",
@@ -64,7 +64,9 @@
       "tagName": "v${version}"
     },
     "npm": {
-      "publish": true
+      "publish": true,
+      "registry": "http://localhost:4873/",
+      "skipChecks": true
     },
     "github": {
       "release": true
